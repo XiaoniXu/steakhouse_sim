@@ -1,0 +1,10 @@
+---
+title: "hello"
+author: "Xiaoni Xu"
+date: "2025-01-30"
+output: github_document
+---
+```{r}
+print("hello_world")
+```
+
